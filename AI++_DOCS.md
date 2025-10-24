@@ -1,6 +1,5 @@
 # AI++ - Complete Language Reference
 
-##  What's New in AI++
 
 AI++ adds powerful features that transform it into a complete programming language:
 
