@@ -1,0 +1,5 @@
+Business Source License 1.1
+
+AI++ is free to use, modify, distribute for non-commercial projects or companies with under £1,000,000 annual revenue. For commercial use exceeding £1,000,000 revenue, a 3% royalty on revenue derived from AI++ (or derivatives using its vector/probabilistic syntax) is required. Contact Jack Lockwood (@Doowkcol, jacklockwood@outlook.com) for licensing. Derived works must retain this license. Fork freely otherwise.
+
+© 2025 Jack Lockwood (@Doowkcol)
